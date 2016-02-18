@@ -11,6 +11,9 @@
 # Generated files
 bin/
 gen/
+Download-reporting/bin
+Download-reporting/obj
+packages/
 
 # Gradle files
 .gradle/
